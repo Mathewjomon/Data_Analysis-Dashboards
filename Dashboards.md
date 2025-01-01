@@ -20,7 +20,7 @@
 ### #What is the % distribution of cases among various WHO regions?
 ![image](https://github.com/user-attachments/assets/f25bf4b1-559b-4c8c-8fb6-2389a44bc16c)
 ![image](https://github.com/user-attachments/assets/3cc13e00-6f4e-44ea-9d69-e8b9bca79f05)
-## Group bby months and display a line chart to show trends across months
+## Group by months and display a line chart to show trends across months
 ![image](https://github.com/user-attachments/assets/03c0240e-c346-4b63-91ef-045361e46d92)
 ![image](https://github.com/user-attachments/assets/36bad907-a1a4-4a0e-87ab-ce2493273298)
 ## Top 10 countries affected by covid - Barchart
